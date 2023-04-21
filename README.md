@@ -1,6 +1,8 @@
 # Lua Comment Cleaner
 
 `lua-comment-cleaner` is a Python script that removes single-line and multi-line comments from Lua files while preserving the code structure and indentation.
+- Supports removing nested multi-line comments with different levels of equal signs between the brackets.
+
 
 ## Usage
 
