@@ -32,4 +32,4 @@ def remove_comments_from_lua(input_file, output_file):
         f.writelines(cleaned_content)
 
 # Usage example:
-remove_comments_from_lua('FILE NAME.LUA', 'FILE NAME TARGET.LUA')
+remove_comments_from_lua('Input.LUA', 'Output.LUA')
